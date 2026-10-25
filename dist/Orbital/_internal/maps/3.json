@@ -1,0 +1,101 @@
+{
+   "32;304;0": {
+      "type": "player_spawn",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         32,
+         304
+      ],
+      "layer": 0
+   },
+   "416;368;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         416,
+         368
+      ],
+      "layer": 0
+   },
+   "528;96;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         528,
+         96
+      ],
+      "layer": 0
+   },
+   "96;-160;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         96,
+         -160
+      ],
+      "layer": 0
+   },
+   "496;-272;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         496,
+         -272
+      ],
+      "layer": 0
+   },
+   "896;-16;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         896,
+         -16
+      ],
+      "layer": 0
+   },
+   "816;288;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         816,
+         288
+      ],
+      "layer": 0
+   },
+   "816;-304;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         816,
+         -304
+      ],
+      "layer": 0
+   },
+   "1072;-208;0": {
+      "type": "goal",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1072,
+         -208
+      ],
+      "layer": 0
+   }
+}

@@ -1,0 +1,376 @@
+{
+   "32;336;0": {
+      "type": "player_spawn",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         32,
+         336
+      ],
+      "layer": 0
+   },
+   "464;384;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         464,
+         384
+      ],
+      "layer": 0
+   },
+   "0;-80;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         0,
+         -80
+      ],
+      "layer": 0
+   },
+   "432;-320;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         432,
+         -320
+      ],
+      "layer": 0
+   },
+   "432;-16;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         432,
+         -16
+      ],
+      "layer": 0
+   },
+   "880;240;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         880,
+         240
+      ],
+      "layer": 0
+   },
+   "720;-16;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         720,
+         -16
+      ],
+      "layer": 0
+   },
+   "1040;-144;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1040,
+         -144
+      ],
+      "layer": 0
+   },
+   "1280;208;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1280,
+         208
+      ],
+      "layer": 0
+   },
+   "1136;512;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1136,
+         512
+      ],
+      "layer": 0
+   },
+   "768;-464;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         768,
+         -464
+      ],
+      "layer": 0
+   },
+   "48;-448;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         48,
+         -448
+      ],
+      "layer": 0
+   },
+   "-416;-400;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         -416,
+         -400
+      ],
+      "layer": 0
+   },
+   "-512;-144;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         -512,
+         -144
+      ],
+      "layer": 0
+   },
+   "-352;112;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         -352,
+         112
+      ],
+      "layer": 0
+   },
+   "-416;464;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         -416,
+         464
+      ],
+      "layer": 0
+   },
+   "-16;656;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         -16,
+         656
+      ],
+      "layer": 0
+   },
+   "368;720;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         368,
+         720
+      ],
+      "layer": 0
+   },
+   "800;480;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         800,
+         480
+      ],
+      "layer": 0
+   },
+   "832;752;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         832,
+         752
+      ],
+      "layer": 0
+   },
+   "592;544;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         592,
+         544
+      ],
+      "layer": 0
+   },
+   "208;496;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         208,
+         496
+      ],
+      "layer": 0
+   },
+   "320;192;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         320,
+         192
+      ],
+      "layer": 0
+   },
+   "272;-192;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         272,
+         -192
+      ],
+      "layer": 0
+   },
+   "784;-288;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         784,
+         -288
+      ],
+      "layer": 0
+   },
+   "1088;32;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1088,
+         32
+      ],
+      "layer": 0
+   },
+   "1472;-144;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1472,
+         -144
+      ],
+      "layer": 0
+   },
+   "1712;64;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1712,
+         64
+      ],
+      "layer": 0
+   },
+   "2000;448;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         2000,
+         448
+      ],
+      "layer": 0
+   },
+   "1664;368;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1664,
+         368
+      ],
+      "layer": 0
+   },
+   "1520;800;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1520,
+         800
+      ],
+      "layer": 0
+   },
+   "1440;512;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1440,
+         512
+      ],
+      "layer": 0
+   },
+   "1888;688;0": {
+      "type": "obstacle",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         1888,
+         688
+      ],
+      "layer": 0
+   },
+   "2032;128;0": {
+      "type": "goal",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         2032,
+         128
+      ],
+      "layer": 0
+   }
+}

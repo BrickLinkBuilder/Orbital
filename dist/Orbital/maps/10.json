@@ -1,0 +1,24 @@
+{
+   "288;240;0": {
+      "type": "player_spawn",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         288,
+         240
+      ],
+      "layer": 0
+   },
+   "288;144;0": {
+      "type": "goal",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         288,
+         144
+      ],
+      "layer": 0
+   }
+}

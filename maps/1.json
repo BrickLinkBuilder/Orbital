@@ -1,0 +1,46 @@
+{
+   "64;240;0": {
+      "type": "player_spawn",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         64,
+         240
+      ],
+      "layer": 0
+   },
+   "304;192;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         304,
+         192
+      ],
+      "layer": 0
+   },
+   "576;336;0": {
+      "type": "planet",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         576,
+         336
+      ],
+      "layer": 0
+   },
+   "624;96;0": {
+      "type": "goal",
+      "index": 0,
+      "flipped_x": false,
+      "flipped_y": false,
+      "pos": [
+         624,
+         96
+      ],
+      "layer": 0
+   }
+}
